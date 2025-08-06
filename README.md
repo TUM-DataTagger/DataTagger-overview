@@ -7,6 +7,6 @@ The TUM DataTagger is the central platform for collaborative research data manag
 ## Conception & Development
 The TUM DataTagger is a web-based software developed by the university library to meet the specific needs of researchers.
 
-Conception: University Library, Department of Research Data Services
-Development: ANEXIA® Internetdienstleistungs GmbH
-Host: Leibniz Supercomputing Centre (LRZ)
+* Conception: University Library, Department of Research Data Services
+* Development: ANEXIA® Internetdienstleistungs GmbH
+* Host: Leibniz Supercomputing Centre (LRZ)
